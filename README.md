@@ -54,7 +54,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ### 1. Clone o Repositório
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone <https://github.com/deivid0304/parque-eolico-teb.git>
 cd <nome_do_diretorio_do_projeto>
 ```
 
