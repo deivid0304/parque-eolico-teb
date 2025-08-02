@@ -55,7 +55,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ```bash
 git clone https://github.com/deivid0304/parque-eolico-teb.git
-cd <nome_do_diretorio_do_projeto>
+cd <parque-eolico-teb>
 ```
 
 ### 2. Configurar e Iniciar o Backend (API Flask)
